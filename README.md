@@ -19,7 +19,7 @@
         
          
         
-        ❌ GET OK !   
+        ❌ GET ERROR !   
         Number x = list.get(2);      
 
         ⚠️ ERROR,pois o tipo dessa lista pode ser um tipo que seja supertipo de Number.
